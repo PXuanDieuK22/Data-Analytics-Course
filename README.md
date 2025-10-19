@@ -1,6 +1,6 @@
 # 📊 Data Analytics - Tổng hợp bài thực hành
 **Giảng viên:** Đỗ Như Tài
-**Sinh viên:** Phạm Xuân Diệu  
+#### **Sinh viên:** Phạm Xuân Diệu  
 **MSSV:** 3122410051  
 **Lớp:** K22 - Phân tích dữ liệu  
 **Trường:** Đại học Sài Gòn
@@ -18,8 +18,8 @@ Mỗi bài được lưu trong một repository riêng biệt, kèm hướng d�
 
 | STT | Chủ đề | Link GitHub |
 |-----|---------|-------------|
-| 1 | Làm quen với Python cho phân tích dữ liệu | [Lab 1 - Python_cho_PTDL](https://github.com/PXuanDieuK22/Data-Analytics) |
-| 2 | Python cho PTDL | [Lab 2 - Data-Cleaning](https://github.com/PXuanDieuK22/Data-Cleaning) |
+| 1 | Làm quen với Python cho phân tích dữ liệu | [Lab 1](https://github.com/PXuanDieuK22/Data-Analytics) |
+| 2 | Python cho PTDL | [Lab 2](https://github.com/PXuanDieuK22/Python_cho_PTDL) |
 | 3 | Phân tích khám phá bệnh Đái tháo đường | [Lab 3 - Diabetes-EDA](https://github.com/PXuanDieuK22/Diabetes-EDA) |
 | 4 |(Đang thực hiện) | 
 | 5 | (Đang thực hiện) | - |
