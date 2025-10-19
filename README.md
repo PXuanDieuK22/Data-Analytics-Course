@@ -1,5 +1,5 @@
 # 📊 Data Analytics - Tổng hợp bài thực hành
-**Giảng viên:** Đỗ Như Tài
+#### **Giảng viên:** Đỗ Như Tài
 #### **Sinh viên:** Phạm Xuân Diệu  
 **MSSV:** 3122410051  
 **Lớp:** K22 - Phân tích dữ liệu  
